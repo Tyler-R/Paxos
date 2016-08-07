@@ -1,7 +1,7 @@
 {
   "name": "paxos",
   "version": "0.0.1",
-  "description": "",
+  "description": "An implementation of Paxos for consensus in a distributed system",
   "author": "Tyler Rubenuik <trubenui@sfu.ca>",
   "repository": {
     "type": "git",
