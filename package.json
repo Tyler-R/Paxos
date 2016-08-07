@@ -7,6 +7,7 @@
     "type": "git",
     "url": "git@github.com:Tyler-R/paxos.git"
   },
+  "keywords": "paxos"
   "dependencies": {
   },
   "engines": {
