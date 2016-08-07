@@ -1,0 +1,15 @@
+{
+  "name": "paxos",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Tyler Rubenuik <trubenui@sfu.ca>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Tyler-R/paxos.git"
+  },
+  "dependencies": {
+  },
+  "engines": {
+    "node": "4.2.1"
+  }
+}
